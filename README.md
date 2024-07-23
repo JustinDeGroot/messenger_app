@@ -1,16 +1,14 @@
-# messenger_app
+# Messenger App
 
-A new Flutter project.
+This is a small group chat messenger app.
+It was made with flutter and firebase. I use firebase to store user and the messages.
 
-## Getting Started
+## How To
 
-This project is a starting point for a Flutter application.
+You are able to login by either having an existing user or creating a new user. Once logged in you are able to chat with everyone that has the app installed.
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Pull the project
+- Setup firebase
+- Enjoy
