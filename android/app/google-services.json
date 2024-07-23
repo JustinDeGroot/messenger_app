@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813016816233",
+    "project_id": "flash-chat-2a814",
+    "storage_bucket": "flash-chat-2a814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813016816233:android:36fd49689a6ab116b8a0f8",
+        "android_client_info": {
+          "package_name": "com.example.messenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qQT04e3MaGJPR11e8lz0bYQlUasswVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813016816233:android:98286f72048cf50bb8a0f8",
+        "android_client_info": {
+          "package_name": "com.justin_de_groot.messenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qQT04e3MaGJPR11e8lz0bYQlUasswVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
